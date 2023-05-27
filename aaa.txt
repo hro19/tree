@@ -1,6 +1,10 @@
 aaa
 bbb
 ccc
+<<<<<<< HEAD
 ddd
 eee
 fff
+=======
+ddd
+>>>>>>> parent of 208550c... eee　subで変更
